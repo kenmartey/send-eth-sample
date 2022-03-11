@@ -1,11 +1,12 @@
-### Script to send sample Eth to simulated address with Ganache and Ethers.js
+### Node Script to send sample Eth to simulated address with Ganache and Ethers.js
 
 ### Requirements
-
+- [Node](https://nodejs.org/en/)
 - [Ganache cli](https://docs.nethereum.com/en/latest/ethereum-and-clients/ganache-cli/)
 - [Ethers.js](https://docs.ethers.io/v5/)
 
 ### Installation
+Install [Node](https://nodejs.org/en/)
 
 Install Ganache cli:
 `npm install -g ganache-cli`
